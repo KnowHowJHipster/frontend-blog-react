@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "blog",
+    "clientFramework": "react",
+    "clientTestFrameworks": ["cypress"],
+    "clientTheme": "none",
+    "creationTimestamp": 1717426926158,
+    "cypressAudit": true,
+    "cypressCoverage": null,
+    "devServerPort": 9060,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.5.0",
+    "languages": ["en", "cs", "fr", "de", "it", "ro", "ru", "sk", "sr", "ua"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "skipServer": true,
+    "testFrameworks": ["cypress"],
+    "withAdminUi": true
+  }
+}
