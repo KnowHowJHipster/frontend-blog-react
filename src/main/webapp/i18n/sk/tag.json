@@ -1,0 +1,25 @@
+{
+  "blogApp": {
+    "tag": {
+      "home": {
+        "title": "Tags",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Pridať Tag",
+        "createOrEditLabel": "Pridať alebo upraviť Tag",
+        "notFound": "No Tags found"
+      },
+      "created": "Bol vytvorený potomok entity Tag s identifikátorom {{ param }}",
+      "updated": "Potomok entity Tag s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Tag s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Tag {{ id }}?"
+      },
+      "detail": {
+        "title": "Tag"
+      },
+      "id": "ID",
+      "name": "Name",
+      "post": "Post"
+    }
+  }
+}

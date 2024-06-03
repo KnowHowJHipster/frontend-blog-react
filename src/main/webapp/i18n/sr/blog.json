@@ -1,0 +1,26 @@
+{
+  "blogApp": {
+    "blog": {
+      "home": {
+        "title": "Blogs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreiraj novi Blog",
+        "createOrEditLabel": "Kreirajte ili izmenite Blog",
+        "notFound": "No Blogs found"
+      },
+      "created": "Kreiran je novi Blog pod nazivom {{ param }}",
+      "updated": "Blog pod nazivom {{ param }} je ažuriran",
+      "deleted": "Blog pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Blog pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Blog"
+      },
+      "id": "ID",
+      "name": "Name",
+      "handle": "Handle",
+      "user": "User"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "blogApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreiraj novi Post",
+        "createOrEditLabel": "Kreirajte ili izmenite Post",
+        "notFound": "No Posts found"
+      },
+      "created": "Kreiran je novi Post pod nazivom {{ param }}",
+      "updated": "Post pod nazivom {{ param }} je ažuriran",
+      "deleted": "Post pod nazivom {{ param }} je obrisan",
+      "delete": {
+        "question": "Da li ste sigurni da želite da obrišete Post pod nazivom {{ id }}?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}
